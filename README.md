@@ -5,9 +5,7 @@
 </h1>
 <h4 align ="center">I am a deep learning engineer from Korea :) </h4>
 <p align='center'>
-  <a href="https://www.linkedin.com/in/hangyu-lee-268a9920a/" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
