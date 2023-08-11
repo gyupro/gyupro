@@ -41,6 +41,9 @@
 </p>
 <br>
 
+![Gyupro's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyupro&show_icons=true&theme=dracula)
+
+
 - 📫 How to reach me: gyupro89@gmail.com...
 
   <a href="mailto:gyupro89@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gyupro89@gmail.com"/></a>
